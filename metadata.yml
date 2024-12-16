@@ -1,0 +1,18 @@
+---
+:id: 295411823
+:submitters:
+- :name: Emily Wang
+  :email: hongyuaw@seas.upenn.edu
+- :name: Zach Yodh
+  :email: zmyodh@gmail.com
+- :name: Nan Wang
+  :email: nickwang@seas.upenn.edu
+- :name: Sarah Yang
+  :email: saryang@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-07 02:06:38.946371000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-06 18:06:38.946371000 Z
+:status: processed
+:score: 105.0
